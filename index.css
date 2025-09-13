@@ -34,10 +34,6 @@ header {
   transition: background 0.3s;
 }
 
-.button:hover {
-  background-color: #0056b3;
-}
-
 main {
   margin-top: 80px;
   padding: 20px;
